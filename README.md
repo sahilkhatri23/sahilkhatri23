@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there, I'm Sahil <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px height = 30px> </h1>
 
 <!--
 **sahilkhatri23/sahilkhatri23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
